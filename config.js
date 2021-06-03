@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Các bạn à!',
-    introDesc: `Học làm chi, thi làm gì
+    introDesc: `Học làm chi, thi làm gì.
     Tú Xương còn rớt, huống chi là mình.
     Đi thi để biết phòng thi
     Vô thi để biết để thi thui mà
